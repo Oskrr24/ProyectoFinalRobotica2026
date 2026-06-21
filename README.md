@@ -371,6 +371,9 @@ Casi-colisiones
 - Comportamiento de sensores crudos y filtrados
 - Porcentaje de ejecuciones exitosas
 - Estados de navegación activados durante el recorrido.
+  
+En este link de google colab se encuentran gráficos con los recorridos y un pequeño análisis de los mismos.
+[Link Colab](https://colab.research.google.com/drive/1mO3DuBeLMgh6ty8W93K-mPVxdRu6sAGM?usp=sharing)
 
 ## Cómo ejecutar la simulación
 
